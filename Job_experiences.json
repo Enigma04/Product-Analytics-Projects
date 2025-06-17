@@ -1,0 +1,255 @@
+[
+  {
+    "title": "Customer Churn Prediction Model",
+    "description": "Led a project to predict customer churn for a telecom client using historical usage data and customer support interactions. I performed feature engineering on temporal patterns, built a logistic regression baseline, and eventually deployed a Random Forest model with an AUC of 0.89. Worked with the DevOps team to containerize the model with Docker and schedule weekly retraining using Airflow. The model insights helped reduce churn by 12% over the next quarter.",
+    "skills": [
+      "machine learning",
+      "feature engineering",
+      "scikit-learn",
+      "Docker",
+      "Airflow",
+      "Python",
+      "telecom",
+      "churn prediction"
+    ]
+  },
+  {
+    "title": "Sales Dashboard Automation",
+    "description": "Developed and maintained an automated sales reporting dashboard using Power BI and SQL for the regional sales team. Cleaned and transformed raw CRM and ERP data into actionable KPIs, including revenue growth, sales funnel conversion, and forecast accuracy. Introduced row-level security and dynamic filters, which improved usability and adoption among managers. The dashboard became the single source of truth for quarterly sales reviews.",
+    "skills": [
+      "Power BI",
+      "SQL",
+      "data cleaning",
+      "KPI tracking",
+      "business intelligence",
+      "sales analytics",
+      "CRM data"
+    ]
+  },
+  {
+    "title": "Retail Product Recommendation Engine",
+    "description": "Built a collaborative filtering recommendation engine using implicit user behavior from online store logs. Extracted product-view sequences and co-purchase patterns to design a matrix factorization model using the `implicit` library in Python. Later refactored the model using TensorFlow embeddings and evaluated recommendations using NDCG. The engine was integrated into the homepage experience and increased cross-sell by 9% within the first month.",
+    "skills": [
+      "recommendation systems",
+      "collaborative filtering",
+      "matrix factorization",
+      "TensorFlow",
+      "NDCG",
+      "Python",
+      "retail analytics"
+    ]
+  },
+  {
+    "title": "Team Lead – Reporting & Analytics Migration",
+    "description": "Managed a team of 4 data analysts in a six-month migration of Excel-based reports to a centralized BI stack (Tableau + Snowflake). Coordinated directly with finance, marketing, and HR to rework reporting logic and metrics definitions. Conducted stakeholder workshops, maintained project roadmap, and trained business users post-launch. Improved report reliability and cut manual effort by 70%, freeing up analysts for strategic projects.",
+    "skills": [
+      "leadership",
+      "project management",
+      "Tableau",
+      "Snowflake",
+      "stakeholder communication",
+      "report migration",
+      "cross-functional teams"
+    ]
+  },
+  {
+    "title": "Social Media Sentiment Tracking with NLP",
+    "description": "Implemented a sentiment analysis pipeline to monitor brand perception across Twitter and Reddit. Preprocessed text data using spaCy and fine-tuned a BERT model to classify sentiment with over 85% accuracy. Built a Streamlit dashboard for real-time monitoring, and presented biweekly insights to the marketing team. The system enabled proactive responses to trending issues and informed campaign messaging.",
+    "skills": [
+      "natural language processing",
+      "BERT",
+      "spaCy",
+      "Streamlit",
+      "Twitter API",
+      "Reddit API",
+      "sentiment analysis",
+      "Python"
+    ]
+  },
+  {
+    "title": "Predictive Maintenance for Manufacturing",
+    "description": "Built a predictive maintenance model using sensor data from factory equipment. Identified degradation patterns using time-series features and trained a Gradient Boosting model to predict failures with 92% precision. Integrated the model into the plant monitoring system, reducing unplanned downtime by 18%.",
+    "skills": [
+      "predictive maintenance",
+      "time-series analysis",
+      "gradient boosting",
+      "Python",
+      "manufacturing",
+      "IoT data",
+      "sensor analytics"
+    ]
+  },
+  {
+    "title": "Fraud Detection for E-commerce Transactions",
+    "description": "Engineered features from transaction logs and behavioral patterns to train an XGBoost model for real-time fraud detection. Deployed the model via a REST API and implemented drift monitoring using Prometheus and Grafana. Reduced false positives by 30% compared to the previous system.",
+    "skills": [
+      "fraud detection",
+      "XGBoost",
+      "REST API",
+      "feature engineering",
+      "monitoring",
+      "Python",
+      "Grafana",
+      "Prometheus"
+    ]
+  },
+  {
+    "title": "HR Analytics: Attrition Risk Scoring",
+    "description": "Developed an employee attrition risk scoring model using internal HRIS and engagement survey data. Trained a LightGBM model with SHAP-based interpretability. Insights led to policy changes in workload distribution and flexible work arrangements, cutting attrition by 10%.",
+    "skills": [
+      "HR analytics",
+      "LightGBM",
+      "SHAP",
+      "employee retention",
+      "Python",
+      "engagement analysis"
+    ]
+  },
+  {
+    "title": "Energy Consumption Forecasting",
+    "description": "Built an LSTM-based forecasting model to predict hourly energy demand for a utility company. Preprocessed seasonal weather and usage data, optimized hyperparameters with Optuna, and deployed the model in a batch pipeline. Helped optimize energy procurement contracts, saving $300k annually.",
+    "skills": [
+      "time-series forecasting",
+      "LSTM",
+      "Optuna",
+      "Python",
+      "energy analytics",
+      "deep learning"
+    ]
+  },
+  {
+    "title": "Customer Segmentation Using RFM Analysis",
+    "description": "Conducted RFM segmentation on e-commerce customer data to identify high-value cohorts. Visualized clusters with t-SNE and applied targeted marketing strategies based on purchasing behavior. Resulted in a 14% uplift in conversion from email campaigns.",
+    "skills": [
+      "customer segmentation",
+      "RFM analysis",
+      "t-SNE",
+      "marketing analytics",
+      "Python",
+      "e-commerce"
+    ]
+  },
+  {
+    "title": "Real Estate Price Prediction",
+    "description": "Created a regression model using LightGBM to predict housing prices based on location, amenities, and historical trends. Deployed the model into a property listing platform to provide dynamic price suggestions for sellers. Improved seller engagement and listing accuracy by 22%.",
+    "skills": [
+      "price prediction",
+      "real estate analytics",
+      "LightGBM",
+      "regression modeling",
+      "Python",
+      "data pipelines"
+    ]
+  },
+  {
+    "title": "Chatbot Analytics & Optimization",
+    "description": "Analyzed customer interactions with a customer service chatbot using conversation logs and user feedback. Identified drop-off points and improved intent recognition with fine-tuned DistilBERT. Reduced chatbot abandonment rate by 25% and improved resolution accuracy.",
+    "skills": [
+      "chatbot analytics",
+      "DistilBERT",
+      "intent classification",
+      "Python",
+      "NLP",
+      "user behavior analysis"
+    ]
+  },
+  {
+    "title": "Inventory Optimization with Linear Programming",
+    "description": "Built an inventory optimization model using linear programming to balance holding costs and stockouts for a retail chain. Integrated model outputs into the ERP system via API. Achieved a 15% reduction in inventory costs across 120 stores.",
+    "skills": [
+      "inventory optimization",
+      "linear programming",
+      "retail operations",
+      "Python",
+      "ERP integration",
+      "supply chain analytics"
+    ]
+  },
+  {
+    "title": "Ad Click-Through Rate Prediction",
+    "description": "Developed a logistic regression model with feature hashing to predict ad click-through rates from millions of impressions. Implemented feature selection techniques to handle high-dimensional categorical data efficiently. Increased campaign ROI by 17%.",
+    "skills": [
+      "CTR prediction",
+      "feature hashing",
+      "logistic regression",
+      "digital advertising",
+      "Python",
+      "high-cardinality features"
+    ]
+  },
+  {
+    "title": "Customer Feedback Topic Modeling",
+    "description": "Applied LDA topic modeling to categorize customer feedback collected through surveys and reviews. Identified key pain points and satisfaction drivers. Results were used by product teams to prioritize fixes and feature improvements.",
+    "skills": [
+      "topic modeling",
+      "LDA",
+      "customer feedback",
+      "NLP",
+      "survey analysis",
+      "Python"
+    ]
+  },
+  
+  {
+    "title": "Organizational Restructuring Facilitation",
+    "description": "Coordinated an internal restructuring process to align departments with new business objectives. Worked closely with HR and department heads to define new roles, manage communication plans, and ensure smooth transitions. Delivered impact analysis to leadership and supported affected teams through the change, minimizing attrition and maintaining productivity.",
+    "skills": [
+      "change management",
+      "organizational design",
+      "internal communications",
+      "stakeholder engagement",
+      "HR coordination",
+      "leadership support"
+    ]
+  },
+  {
+    "title": "Quarterly Business Review Program",
+    "description": "Designed and implemented a standardized Quarterly Business Review (QBR) framework across all regional offices. Trained managers on storytelling with metrics, defined core KPIs, and created a central reporting template. The program increased visibility of team performance and fostered data-driven decision-making in leadership reviews.",
+    "skills": [
+      "business review",
+      "performance reporting",
+      "KPI alignment",
+      "training",
+      "executive communication",
+      "program management"
+    ]
+  },
+  {
+    "title": "Talent Development & Mentoring Program",
+    "description": "Launched a mentorship program across the analytics department to support junior talent development and knowledge transfer. Matched mentors and mentees based on career goals and skill gaps, and organized monthly check-ins and career workshops. Improved team retention and internal mobility rates within two quarters.",
+    "skills": [
+      "talent development",
+      "mentoring",
+      "employee engagement",
+      "career planning",
+      "workforce retention",
+      "program design"
+    ]
+  },
+  {
+    "title": "Budget Ownership & Cost Optimization",
+    "description": "Managed a $1.2M departmental budget across tools, contractors, and internal initiatives. Conducted quarterly reviews, renegotiated vendor contracts, and identified underused software licenses. Reduced annual operational costs by 19% while reallocating funds to high-impact innovation projects.",
+    "skills": [
+      "budget management",
+      "cost optimization",
+      "vendor negotiation",
+      "financial planning",
+      "operational efficiency",
+      "resource allocation"
+    ]
+  },
+  {
+    "title": "Internal Communication Strategy Overhaul",
+    "description": "Revamped the internal communication approach for a 150-person business unit. Introduced a monthly newsletter, standardized project update formats, and created a shared space for company-wide announcements. This improved transparency and reduced redundant cross-team meetings by 40%.",
+    "skills": [
+      "internal communication",
+      "knowledge management",
+      "employee engagement",
+      "content strategy",
+      "meeting reduction",
+      "cross-department alignment"
+    ]
+  }
+]
+
+
