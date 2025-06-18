@@ -76,6 +76,7 @@ Business Impact:
 
 # Technical Skills Demonstrated
 📈 Analytical Techniques
+
 Cohort Analysis: Time-based user segmentation
 
 Funnel Analysis: Conversion stage tracking
@@ -85,6 +86,7 @@ Retention Metrics: Longitudinal engagement patterns
 Drop-off Quantification: Bottleneck identification
 
 💻 Technical Execution
+
 Python Stack: pandas, matplotlib, numpy
 
 Data Wrangling: Datetime operations, missing value handling
@@ -94,6 +96,7 @@ Statistical Analysis: Rate calculations, percentage changes
 Data Visualization: Heatmaps, funnel charts
 
 🔍 Business Acumen
+
 Translating data insights into business opportunities
 
 Prioritizing high-impact improvement areas
